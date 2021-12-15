@@ -1,4 +1,4 @@
-# collegeS
+# collegeSpace
 https://happy-grass-0f67e3610.azurestaticapps.net
 
 You must have to register and login the site
