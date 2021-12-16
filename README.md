@@ -1,5 +1,8 @@
 # collegeSpace
 https://happy-grass-0f67e3610.azurestaticapps.net
+For Trail Purpose
+Email : -foxojec899@veb27.com
+PassWord :- Pass@1234
 
 You must have to register and login the site
 This the WebSite which Help The student in college for college purpose for downloading the notes question paper.
